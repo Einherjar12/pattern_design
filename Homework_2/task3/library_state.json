@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Новая жизнь",
+      "author": "Иван Иванов",
+      "year": 2021,
+      "isbn": "111-AAA",
+      "status": "available",
+      "borrower_id": null
+    },
+    {
+      "id": 2,
+      "title": "Программирование на Python",
+      "author": "Мария Петрова",
+      "year": 2022,
+      "isbn": "222-BBB",
+      "status": "available",
+      "borrower_id": null
+    }
+  ],
+  "librarians": [],
+  "readers": [
+    {
+      "id": 1,
+      "name": "Сергей Кузнецов",
+      "email": "sergey@mail.com",
+      "phone": "+7-999-123-45-67",
+      "books_borrowed": []
+    }
+  ]
+}
